@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { countStore } from "../../store/countStor";
+import { countStore } from "../../store/countStore";
 import { Button, Col, Row, Space } from "antd";
 import { productStore } from "../../store/productStore";
 import { AiFillHeart, AiOutlineHeart } from "react-icons/ai";
